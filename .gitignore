@@ -14,3 +14,6 @@ kicad/AIOsense/manufactoring/
 
 # other
 venv/
+
+# secrets
+esphome/secrets.yaml
